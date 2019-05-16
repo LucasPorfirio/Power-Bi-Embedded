@@ -1,1 +1,3 @@
 # Power-bi-Embedded
+
+Este projeto tem a finalidade de mostrar como publicar seus relatórios em uma página web, disponibilizando o power bi para os seus clientes sem que eles precisem criar uma conta na Microsoft. A vantagem do uso da ferramenta Embedded é que os seus relatórios não estarão públicos, sempre gerando um token de acesso. Estou disponibilizando este tutorial pelo fato de ter poucas documentações relacionadas a esse assunto em português e muito poucas estão completas. Gerei todos os aquivos necessários para embedar um relatório e para complementar disponibilizarei um tutorial escrito ensinando passo a passo do processo.
